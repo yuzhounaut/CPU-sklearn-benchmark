@@ -8,6 +8,7 @@ Intel Core i7-9750H   ~47 s
 AMD Ryzen 7 2700      ~49 s
 
 https://machinelearningmastery.com/multi-core-machine-learning-in-python/
+https://matplotlib.org/stable/gallery/text_labels_and_annotations/text_fontdict.html#sphx-glr-gallery-text-labels-and-annotations-text-fontdict-py
 
 AMD Ryzen 7 2700 Multi-Core Model Training Benchmark
 
