@@ -1,6 +1,8 @@
 # CPU-sklearn-benchmark
 CPU sklearn benchmark
 
+Intel Core i7-12700H  ~27 s
+
 AMD Ryzen 7 4800U     ~38 s
 
 Intel Core i7-9750H   ~47 s
